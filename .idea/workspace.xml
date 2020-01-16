@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73305e-1cce-446f-ba93-68df575fd174" name="Default Changelist" comment="牛岩松上传项目结构">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mint/controller/ResourcesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mint/dao/ResourcesDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mint/model/entity/Resources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mint/service/ResourcesDaoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mint/service/impl/ResourcesDaoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ResourcesMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/gg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mint.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +27,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\apache-maven-3.6.2-bin\maven\repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.6.2-bin/apache-maven-3.6.2" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.2-bin\apache-maven-3.6.2\conf\settings.xml" />
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -54,7 +48,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -94,6 +88,7 @@
       <updated>1579054098599</updated>
       <workItem from="1579054102934" duration="717000" />
       <workItem from="1579137813215" duration="2425000" />
+      <workItem from="1579140494400" duration="569000" />
     </task>
     <servers />
   </component>
@@ -105,25 +100,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="牛岩松上传项目结构" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="734" y="258" key="#com.intellij.ide.util.MemberChooser" timestamp="1579139321272">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state x="758" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1579140936677">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="734" y="258" key="#com.intellij.ide.util.MemberChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1579139321272" />
+    <state x="758" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579140936677" />
     <state x="401" y="124" key="CommitChangelistDialog2" timestamp="1579054682185">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="401" y="124" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1579054682185" />
-    <state x="709" y="283" key="FileChooserDialogImpl" timestamp="1579139391567">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state x="733" y="273" key="FileChooserDialogImpl" timestamp="1579140617306">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="283" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1579139391567" />
+    <state x="733" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579140617306" />
     <state x="754" y="453" width="373" height="174" key="Github.CreateGistDialog" timestamp="1579054474440">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="754" y="453" width="373" height="174" key="Github.CreateGistDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1579054474440" />
-    <state x="595" y="181" key="SettingsEditor" timestamp="1579054579403">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state x="615" y="174" key="SettingsEditor" timestamp="1579140618388">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="595" y="181" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1579054579403" />
+    <state x="615" y="174" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579140618388" />
   </component>
 </project>
